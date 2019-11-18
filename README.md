@@ -12,7 +12,7 @@
     <h2 style=" text-align:center ">Profile Card</h2>
 
     <div class="card ">
-        <img src="soham.png " alt="Soham Tupe " style="width:90% ">
+        <img src="soham.png " alt="Hritik Binwal" style="width:90% ">
         <h1>Hritik Binwal</h1>
         <p class="title ">student</p>
         <p>ENTC</p>
